@@ -1,7 +1,7 @@
 name: trident
 favicon: null
-layout_spectrum: 0.3055540486238897
-typography_spectrum: 0.9524823853280395
+layout_spectrum: 0.9781
+typography_spectrum: 0.40342
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.09781450987793505
+  brandStrength: 0
   lightness: 0.7553953949827701
   saturation: 0.6428412746172398
   rhythmicContrast: 0.5683796384837478
